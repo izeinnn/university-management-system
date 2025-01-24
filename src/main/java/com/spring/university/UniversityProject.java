@@ -8,7 +8,7 @@ public class UniversityProject {
 
     public static void main(String[] args) {
         SpringApplication.run(UniversityProject.class, args);
-        System.out.println("working");
+        System.out.println("Welcome to University Management System");
 
 
     }
